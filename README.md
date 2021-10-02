@@ -7,7 +7,7 @@
 
 Today's challenge was building a newbie level project. Because I've been working on more complex projects lately, I decided to slow down the intensity of my coding for a few days and just enjoy a smaller project. 
 
-[Live Site](https://todo-app-pi-roan.vercel.app/)
+[Live Site](https://stats-preview-card-component-five-flame.vercel.app//)
 
 ## Technologies Used
 
